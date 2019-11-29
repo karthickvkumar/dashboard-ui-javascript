@@ -1,2 +1,18 @@
+.content {
+    color: blue;
+}
 
+.inputbox{
+    margin-left: 10px;
+    width: 100px;
+}
 
+button{
+    background-color: blue;
+    color: white;
+    width: 50px;
+}
+
+body{
+    font-size: 22px;
+}
